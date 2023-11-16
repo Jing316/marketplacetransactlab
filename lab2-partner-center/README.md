@@ -111,7 +111,8 @@ You must select at least one category for your offer.
 
 ### Technical configuration
 
-You need to fill in the parameters here from what you received as the outcome of lab1 - the SaaS accelerator installation.
+1. Enter the values you get from the output of the previous lab (installing SaaS accelerator) into the appropriate text fields.
+1. Click **Save Draft**.
 
 ### Plan overview
 
@@ -167,12 +168,12 @@ In this short exercise, you will check your work by performing the first action 
 
 1. Open your offer's overview page.
 1. In the upper right corner of the page, click the link for **Review and publish**.
-1. Looking to the right side of the page, notice that some sections have a green circle and at least one is gray. The gray sections are not yet complete, preventing you from taking the next step of publishing your offer.
+1. Looking to the right side of the page, notice that at this stage all the sections should be green. If any section is gray then it is not complete. Go back to all sections that appear with a gray circle and complete those sections.
+1. Publish your offer.
 
-    > The **Technical configuration** section of the offer will not pass review. This is okay for now as we need to fill out the **Technical configuration** tab and you can't do that until we have a landing page. All other sections should be green.
+⚠️ Publication will take a while. Only after publication completes can you do the next lab.
 
-1. Go back to all sections that appear with a gray circle and complete those sections.
-1. Ensure all sections pass except **Technical configuration**, which will be addressed in the next lab.
+> To watch the publication process, refresh the offer's **Overview** page occasionally. Once your offer reaches the **Publisher preview** stage, you are ready for the next lab. Do NOT press the **Go live** button.
 
 ---
 
