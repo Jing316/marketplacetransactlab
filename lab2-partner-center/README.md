@@ -1,4 +1,4 @@
-# Lab 1 - Creating a SaaS Offer in Partner Center
+# Lab 2 - Creating a SaaS Offer in Partner Center
 
 👈 [Back to SaaS Offer labs](../README.md#labs)
 
