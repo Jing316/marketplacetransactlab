@@ -100,6 +100,9 @@ Here are some things you might try.
 The SaaS accelebrator comes with many additional advanced features to let you custome it to your own needs. For example, you can try the following:
 
 - Add customed fields in the landing page, such as "Contact Email", "Contact Name", "License Key", etc. You can specify the type of the field and weather it is mandatory or not. Please see the instruction in the [video tutorial here](https://www.youtube.com/watch?v=ixqo2sO9rLs)
+- Configure Email notification in the SaaS Accelerator when the offer changes state. Please see the instruction in the [video tutorial here](https://www.youtube.com/watch?v=IniPruOrV8I)
+- If you have built your own webhook to receive status change notification, you can let SaaS accelerator redirect the information to you. In the Admin portal, go to **setting**-->**Application Config** list, specify your webhoob URL in the "WebNotificationUrl" field.
+- Skip the partner "activation" step. In the default flow, after the customer completes the SaaS configuration the publisher must call the Activate Subscription API to kick off the billing cycle. It's possible to skip this step by going to **setting**-->**Application Config** list, change the boolean value of "IsAutomaticProvisioningSupported" to **True**.
 
 ---
 
