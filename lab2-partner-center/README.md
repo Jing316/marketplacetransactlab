@@ -95,10 +95,10 @@ You must select at least one category for your offer.
 1. In the **Support contact** section, enter your contact information.
 1. For the **Support link** field enter the support or homepage of your website.
 1. For the **Engineering contact** section, enter your contact information.
-1. for the **Supporting documents** section, upload the PDF document provided in the `items` directory of **lab1**. This document is named "**WellArchitectedFramework.pdf**."
+1. for the **Supporting documents** section, upload the PDF document provided in the `items` directory of **lab2**. This document is named "**WellArchitectedFramework.pdf**."
 1. You must give the document a name.
 1. For the Marketplace media section you'll upload 2 images.
-    1. For the **216X216 logo image,** upload the PNG provided in the `./items` directory of **lab1**. This PNG is named "**Contoso-Logo-216x216.png**."
+    1. For the **216X216 logo image,** upload the PNG provided in the `./items` directory of **lab2**. This PNG is named "**Contoso-Logo-216x216.png**."
     1. For the **1280X720** screenshot image, upload the PNG provided in the `./items` directory of **lab1**. This PNG is named "**Screenshots-1280x720.png**."
     1. Add a title to the screenshot image.
 1. Click the **Save draft** button and correct any errors that be shown before moving on.
@@ -111,7 +111,7 @@ You must select at least one category for your offer.
 
 ### Technical configuration
 
-Skip this section for this first lab. You will come back to it in lab 2.
+You need to fill in the parameters here from what you received as the outcome of lab1 - the SaaS accelerator installation.
 
 ### Plan overview
 
