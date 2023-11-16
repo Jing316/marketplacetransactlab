@@ -1,5 +1,5 @@
-## Labs
-Your SaaS Offer can be deployed and published in just a few steps using the SaaS Accelerator
+## Marketplace Transact Lab 2023.11.21
+Please find the instructions for the hands-on lab below. 
 
 >Note: You will need to complete these labs in the order they are provided to ensure continuity
 
