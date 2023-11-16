@@ -1,4 +1,4 @@
-# Lab 2 - Installing the SaaS Accelerator
+# Lab 1 - Installing the SaaS Accelerator
 
 👈 [Back to SaaS Offer labs](../README.md#labs)
 
