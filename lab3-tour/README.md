@@ -95,6 +95,12 @@ Here are some things you might try.
 - Cancel, or **Unsubscribe**, a subscription from within the publisher portal.
 - Look at the other ways to navigate the publisher portal and see subscriptions and offers.
 
+## Additional customizations
+
+The SaaS accelebrator comes with many additional advanced features to let you custome it to your own needs. For example, you can try the following:
+
+- Add customed fields in the landing page, such as "Contact Email", "Contact Name", "License Key", etc. You can specify the type of the field and weather it is mandatory or not. Please see the instruction in the [video tutorial here](https://www.youtube.com/watch?v=ixqo2sO9rLs)
+
 ---
 
 **Congratulation!** You have finished this lab.
