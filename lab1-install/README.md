@@ -35,7 +35,7 @@ In your text editor, replace each of the below values. They are described below.
 
 In the Azure portal, click the button next to the command bar as shown in the image below.
 
-![Command shell](../../images/01.png)
+![Command shell](../images/01.png)
 
 This opens the the PowerShell cloud shell, which is a command line that runs directly in Azure. Note the cloud shell is ready to use once you see a blinking cursor.
 
