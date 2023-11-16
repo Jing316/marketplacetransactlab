@@ -98,18 +98,6 @@ Now you'll verify the two web application are up and running.
 1. In the upper right corner is the URL of the web app. Click the URL.
 1. You should be taken to a web page and receive no errors. If you are prompted to log in, do so.
 
-## Exercise: Partner Center Technical Configuration
-
-1. Open Partner Center and browse to the **Technical configuration** page of your offer.
-1. Enter the values into the appropriate text fields as per the instructions from the end of the installation script that you copied earlier in this lab.
-1. Click **Save Draft**.
-1. Click **Review and publish**.
-1. Publish your offer.
-
-⚠️ Publication will take a while. Only after publication completes can you do the next lab.
-
-> To watch the publication process, refresh the offer's **Overview** page occasionally. Once your offer reaches the **Publisher preview** stage, you are ready for the next lab. Do NOT press the **Go live** button.
-
 ---
 
 **Congratulation!** You have finished this lab.
