@@ -25,7 +25,7 @@ In your text editor, replace each of the below values. They are described below.
 
 | Parameter value | Description and notes |
 |---|---|
-| **WebAppNamePrefix** | A string that will be prefixed to the name of all resources that are created in your deployment resource group. This can be as short as three letters and upto 21 characters. Use lowercase alphanumeric characters only. |
+| **WebAppNamePrefix** | A string that will be prefixed to the name of all resources that are created in your deployment resource group. This can be as short as three letters and upto 21 characters. **Must be globally unique**. Use lowercase alphanumeric characters only. |
 | **ResourceGroupForDeployment** | The name of the resource group you want to deploy the SaaS solution into. For the purposes of this lab, consider using `saas-accelerator-workshop`. |
 |**PublisherAdminUsers**| A valid email that will use the publisher portal for the first time. This account will be able to give access to more users. |
 
