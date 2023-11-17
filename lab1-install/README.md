@@ -37,7 +37,7 @@ In the Azure portal, click the button next to the command bar as shown in the im
 
 ![Command shell](../images/01.png)
 
-This opens the the PowerShell cloud shell, which is a command line that runs directly in Azure. Note the cloud shell is ready to use once you see a blinking cursor.
+This opens the the **PowerShell cloud shell** (do not use a Bash cloud shell), which is a command line that runs directly in Azure. Note the cloud shell is ready to use once you see a blinking cursor.
 
 ## Exercise: Running the install script
 
